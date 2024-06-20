@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/simulation_physics/static/css/main.18e11287.css",
+    "main.js": "/simulation_physics/static/js/main.3f78943e.js",
+    "static/js/483.5a1356bf.chunk.js": "/simulation_physics/static/js/483.5a1356bf.chunk.js",
+    "static/js/787.939d5ca9.chunk.js": "/simulation_physics/static/js/787.939d5ca9.chunk.js",
+    "service-worker.js": "/simulation_physics/service-worker.js",
+    "index.html": "/simulation_physics/index.html",
+    "main.18e11287.css.map": "/simulation_physics/static/css/main.18e11287.css.map",
+    "main.3f78943e.js.map": "/simulation_physics/static/js/main.3f78943e.js.map",
+    "483.5a1356bf.chunk.js.map": "/simulation_physics/static/js/483.5a1356bf.chunk.js.map",
+    "787.939d5ca9.chunk.js.map": "/simulation_physics/static/js/787.939d5ca9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18e11287.css",
+    "static/js/main.3f78943e.js"
+  ]
+}
